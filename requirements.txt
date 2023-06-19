@@ -5,3 +5,4 @@ darts==0.24.0
 pytorch-lightning==2.0.2
 scikit-learn==1.2.2
 tensorflow==2.12.0
+streamlit-option-menu==0.3.4
